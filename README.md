@@ -17,7 +17,7 @@
   <b>Additional languages:</b> Scala, C
   <b>Databases:           </b> Postgres, Hadoop
   <b>ML libs:             </b> Scikit-learn, PyTorch, CatBoost, XgBoos, LightGBM
-  <b>Visualization libs:  </b> Plotly, Seaborn
+  <b>Visualization libs:  </b> Mathplotlib, Plotly, Seaborn
   <b>Favorite libs:       </b> DVC, FastApi, Flask, Airflow
   <b>Other tech:          </b> Docker, Git
 <b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
