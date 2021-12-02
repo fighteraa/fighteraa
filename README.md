@@ -15,10 +15,10 @@
   <b>Practice area:       </b> Data Science
   <b>Main language:       </b> Python
   <b>Additional languages:</b> Scala, C
-  <b>Databases:           </b> Postgres, Hadoop
+  <b>Databases:           </b> MySQL, Hadoop
   <b>ML libs:             </b> Scikit-learn, PyTorch, CatBoost, XgBoos, LightGBM, hyperopt
   <b>Visualization libs:  </b> Mathplotlib, Plotly, Seaborn
-  <b>Other tech:          </b> Git, DVC, FastApi, Flask, Airflow, Docker 
+  <b>Other tech:          </b> Git, DVC, FastApi, Flask, Airflow, Docker, SQL
 <b>> <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="10" height="18" /></b>
 
 </pre>
